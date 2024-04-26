@@ -1,0 +1,38 @@
+*{
+    margin:none;
+    background-color:rgb(92, 118, 141);
+}
+.counter{
+    height: 500px;
+    width: 50%;
+    background-color: aqua;
+    position:absolute;
+    margin-top: 5%;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inc-dec{
+    background-color: aqua;
+}
+#count{
+    background-color: aqua;
+}
+.button{
+    background-color: aqua;
+}
+.btn{
+    font-size: large;
+    background-color: rgb(201, 95, 95);
+    margin: 1px;
+    border: 1px solid rgb(57, 3, 3);
+}
+.disable{
+    cursor: not-allowed;
+    background-color: grey;
+}
+.autoStyle{
+    background-color: green;
+}
